@@ -245,7 +245,7 @@ VS Code: Ctrl+Shift+P → "Run All" 또는 셀별로 Shift+Enter
 Jupyter: Cell → Run All 또는 셀별로 Shift+Enter
 ```
 
-⚠️ MPNet 모델은 처음 실행 시 다운로드가 필요하며, 임베딩에 5~10분 걸립니다.
+⚠️ MPNet 모델은 처음 실행 시 다운로드가 필요합니다.
 
 ## 데이터 전처리 파이프라인
 
